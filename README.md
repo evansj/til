@@ -9,10 +9,14 @@ Inspired by [Josh Branchaud's repository](https://github.com/jbranchaud/til), th
 ## Categories
 
 * [Mac](#mac)
+* [Shell](#shell)
 
 ---
 
-
 ## Mac
 
-- [Flush DNS Cache](mac/flush-dns-cache.md)
+* [Flush DNS Cache](mac/flush-dns-cache.md)
+
+## Shell
+
+* [Look up a value from a Java properties file](shell/read-java-properties-files.md)
