@@ -10,6 +10,7 @@ Inspired by [Josh Branchaud's repository](https://github.com/jbranchaud/til), th
 
 * [Mac](#mac)
 * [Shell](#shell)
+* [UNIX](#unix)
 
 ---
 
@@ -20,3 +21,7 @@ Inspired by [Josh Branchaud's repository](https://github.com/jbranchaud/til), th
 ## Shell
 
 * [Look up a value from a Java properties file](shell/read-java-properties-files.md)
+
+## UNIX
+
+* [Extract a file in a zip archive directly to stdout](unix/unzip-to-stdout.md)
