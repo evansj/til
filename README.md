@@ -21,6 +21,7 @@ Inspired by [Josh Branchaud's repository](https://github.com/jbranchaud/til), th
 ## Shell
 
 * [Look up a value from a Java properties file](shell/read-java-properties-files.md)
+* [Split `~/.ssh/config` into multiple files](shell/split-ssh-config-into-multiple-files.md)
 
 ## UNIX
 
