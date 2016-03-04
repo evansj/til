@@ -25,3 +25,7 @@ Inspired by [Josh Branchaud's repository](https://github.com/jbranchaud/til), th
 ## UNIX
 
 * [Extract a file in a zip archive directly to stdout](unix/unzip-to-stdout.md)
+
+## Packer
+
+* [Make sure `puppet-masterless` provisioner always succeeds](packer/puppet-masterless-always-succeed.md)
